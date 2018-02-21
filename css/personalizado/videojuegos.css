@@ -1,0 +1,62 @@
+.rojo {
+    background-color: #be2736;
+    /* ALTERNATIVO background-color: #BF3936;*/
+}
+
+.espacio {
+    margin-top: 3%;
+}
+
+.espaciocategoria {
+    margin-top: 3%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 230px;
+    display: block;
+}
+
+.paddingtext {
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+}
+
+.bottomcard {
+    padding-bottom: 1%;
+}
+
+.card {
+    transition: transform 0.4s;
+}
+
+.card:hover {
+    transform: scale(1.065);
+}
+
+.espacioabajo {
+    margin-bottom: 3.5%;
+}
+
+/*MOVILES*/
+
+@media (min-width: 0px) and (max-width: 599px) {
+    .card {
+        margin-bottom: 10%;
+    }
+    .espacio {
+        margin-top: 7%;
+    }
+
+    .espaciocategoria {
+        margin-top: -2%;
+    }
+}
+
+/*TABLETA*/
+
+@media (min-width: 600px) and (max-width: 990px) {}
+
+/*MINI/NOTEBOOKS*/
+
+@media (min-width: 991px) and (max-width: 1250px) {}

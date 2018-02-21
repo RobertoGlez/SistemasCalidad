@@ -1,0 +1,101 @@
+.center {
+    text-align: center;
+    align-content: center;
+    display: block;
+    margin: auto;
+}
+
+.imgcenter {
+    margin: auto;
+    display: block;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.left {
+    text-align: left;
+}
+
+.rigth {
+    text-align: right;
+}
+
+.espaciomenu {
+    margin-top: 3%;
+}
+
+.espacio {
+    margin-top: 3%;
+}
+
+.textwhite {
+    color: white;
+}
+
+.textblack {
+    color: black;
+}
+
+.bgwhite {
+    background-color: white;
+}
+
+.bgblack {
+    background-color: black;
+}
+
+.toptext {
+    margin-top: 1em;
+}
+
+/* TAMAÑO DE LETRA */
+
+.ochopx {
+    font-size: 8px;
+}
+
+.diezpx {
+    font-size: 10px;
+}
+
+.docepx {
+    font-size: 12px;
+}
+
+.catorcepx {
+    font-size: 14px;
+}
+
+.dieciseispx {
+    font-size: 16px;
+}
+
+.dieciochopx {
+    font-size: 18px;
+}
+
+.veintepx {
+    font-size: 20px;
+}
+
+.veintidospx {
+    font-size: 22px;
+}
+
+.veinticuatropx {
+    font-size: 24px;
+}
+
+.veintiseispx {
+    font-size: 26px;
+}
+
+.veintiochopx {
+    font-size: 28px;
+}
+
+.treintapx {
+    font-size: 30px;
+}

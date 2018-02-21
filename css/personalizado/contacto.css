@@ -1,0 +1,16 @@
+.rojo {
+    background-color: #be2736;
+    /* ALTERNATIVO background-color: #BF3936;*/
+}
+
+/*MOVILES*/
+
+@media (min-width: 0px) and (max-width: 599px) {}
+
+/*TABLETA*/
+
+@media (min-width: 600px) and (max-width: 990px) {}
+
+/*MINI/NOTEBOOKS*/
+
+@media (min-width: 991px) and (max-width: 1250px) {}
